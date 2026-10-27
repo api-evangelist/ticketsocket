@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TicketSocket is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ticketsocket.com/
+TicketSocket provides a developer‑centric platform for event organizers to sell tickets and market events. Its RESTful APIs enable creating, managing, and tracking ticket sales, pricing rules, and marketing campaigns. The service emphasizes flexibility through a plug‑based architecture, allowing integration of analytics, email, social media, SEO, and advertising tools to maximize ticket revenue.
+
+**Areas:** Company · Events · Ticketing · Marketing · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ticketsocket.com/)
+- [Documentation](https://ticketsocket.com/)
+- [Pricing](https://ticketsocket.com/premiere/pricing-rules/)
+- [Support](https://support.ticketsocket.com/hc/en-us/)
+- [Blog](https://ticketsocket.com/blog)
+- [Terms of service](https://ticketsocket.com/terms-of-use/)
+- [Privacy policy](https://ticketsocket.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ticketsocket/](https://apis.io/providers/ticketsocket/).
